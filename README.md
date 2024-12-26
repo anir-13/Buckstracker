@@ -42,19 +42,6 @@ The project follows this structure:
 - **`.gitignore`:** Specifies files and directories that should not be tracked by Git.
 
 
-## Project structure
-Buckstracker/
-├── buckstracker.py       # Main application file
-├── gui/
-│   ├── login.py          # Login form
-│   ├── income.py         # Income management form
-│   ├── expenditure.py    # Expense management form
-├── database/
-│   ├── setup.sql         # SQL scripts to create tables
-│   ├── connection.py     # Database connection utility
-├── README.md             # Project documentation
-├── requirements.txt      # Dependencies list (if any)
-└── LICENSE               # License file
 
 ## Author
 - **Anirudh Ramachandran:** 
