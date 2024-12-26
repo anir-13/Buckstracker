@@ -28,6 +28,20 @@ Before running the application, ensure the following:
   - `sqlite3` or `MySQL` connector (depending on database choice)
 
 ---
+## Project Structure
+The project follows this structure:
+
+
+### Explanation of Key Files and Directories:
+- **`buckstracker.py`:** The main application file and entry point of the project.
+- **`gui/`:** Contains individual scripts for each GUI component (login, income, and expense management).
+- **`database/`:** Manages database connections and setup scripts.
+- **`README.md`:** The documentation for the project, including setup and usage instructions.
+- **`requirements.txt`:** List of required Python libraries for the project.
+- **`LICENSE`:** Contains the project's licensing terms.
+- **`.gitignore`:** Specifies files and directories that should not be tracked by Git.
+
+
 ## Project structure
 Buckstracker/
 ├── buckstracker.py       # Main application file
